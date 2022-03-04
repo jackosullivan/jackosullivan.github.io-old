@@ -68,3 +68,16 @@ main > section > h3 {
     white-space: nowrap;
     display: inline-block;
 }
+
+footer {
+    background-color: rgb(57, 58, 58);
+    color: white;
+    min-height: 3em;
+    padding: 1.5em;
+}
+
+footer > a {
+    color: white;
+    margin-top: 1em;
+    display: block;
+}
