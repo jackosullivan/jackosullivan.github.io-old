@@ -69,6 +69,15 @@ main > section > h3 {
     display: inline-block;
 }
 
+.button {
+    background-color: rgb(26,29,34);
+    padding: 2em;
+    margin: 1em auto;
+    color: white;
+    font-family: "Red Hat Mono";
+    display: inline-block;
+}
+
 footer {
     background-color: rgb(57, 58, 58);
     color: white;
